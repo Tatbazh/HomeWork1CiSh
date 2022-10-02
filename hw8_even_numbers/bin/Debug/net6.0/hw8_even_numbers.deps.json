@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw8_even_numbers/1.0.0": {
+        "runtime": {
+          "hw8_even_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw8_even_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

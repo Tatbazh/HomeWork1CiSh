@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\bin\Debug\net6.0\hw8_even_numbers.exe
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\bin\Debug\net6.0\hw8_even_numbers.deps.json
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\bin\Debug\net6.0\hw8_even_numbers.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\bin\Debug\net6.0\hw8_even_numbers.dll
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\bin\Debug\net6.0\hw8_even_numbers.pdb
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.dll
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\refint\hw8_even_numbers.dll
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.pdb
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\hw8_even_numbers.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw8_even_numbers\obj\Debug\net6.0\ref\hw8_even_numbers.dll

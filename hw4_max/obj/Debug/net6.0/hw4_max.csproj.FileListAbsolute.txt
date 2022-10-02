@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\bin\Debug\net6.0\hw4_max.exe
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\bin\Debug\net6.0\hw4_max.deps.json
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\bin\Debug\net6.0\hw4_max.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\bin\Debug\net6.0\hw4_max.dll
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\bin\Debug\net6.0\hw4_max.pdb
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.dll
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\refint\hw4_max.dll
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.pdb
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\hw4_max.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\less1C\hw4_max\obj\Debug\net6.0\ref\hw4_max.dll
